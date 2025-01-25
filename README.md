@@ -26,7 +26,7 @@ Welcome to the **Cyber** Maven project! This repository contains the source code
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-repo/cyber.git
+   git clone https://github.com/Solidbeatle/servermc-maven-plugin.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -168,7 +168,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 For questions or support, feel free to reach out:
 
-- **GitHub Issues**: [Submit an issue](https://github.com/your-repo/cyber/issues)
+- **GitHub Issues**: [Submit an issue] (https://github.com/Solidbeatle/servermc-maven-plugin/issues)
 - **Email**: support@cyber.com
 
 Thank you for using the Cyber Maven project. Happy coding! 🎮
